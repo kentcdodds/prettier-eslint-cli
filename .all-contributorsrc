@@ -221,7 +221,18 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "dorser",
+      "name": "dorser",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/20969462?v=4",
+      "profile": "https://github.com/dorser",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
     }
   ],
-  "repoType": "github"
+  "repoType": "github",
+  "commitConvention": "none"
 }
